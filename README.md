@@ -1,4 +1,5 @@
-#Calculador automático da media de notas
+Calculador automático da media de notas
+========================================
 
 _Pode ser mais explorado mais tarde_
 
